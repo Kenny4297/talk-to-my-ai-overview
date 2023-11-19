@@ -16,4 +16,5 @@ Our aim is to enhance the efficiency and effectiveness of communication through 
 ## Contributors
 
 Chrysti Reichert - Creator, Project Manager, CEO
+
 Kedgard Cordero - Lead Developer
